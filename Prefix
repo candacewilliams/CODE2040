@@ -21,3 +21,5 @@ public class Prefix {
 		System.out.println("The New Array is " + no_prefix);
 	}
 }
+
+ /*I really struggled with this bit of code because I had to think about subtracting intatead of adding. Of course the first time I did this, I created a new array with the strings that started the same as prefix. I didn't feel comfortable with a while loop, it doesn't feel natural to me, so I thought it would be cool to just add everything while looping through and then removing a string if it started the same as prefix. It took me awhile to come up with that and I feel really proud of it.*/
