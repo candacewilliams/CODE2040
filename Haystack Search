@@ -17,3 +17,5 @@ public class Haystack_Search {
 		}
 	}
 }
+
+/*I think on of my biggest weaknesses when I write code is putting a lot in the main method. I think it works fine when the code is short, but it shows a lack of coding maturity (which I seriously want to improve upon). Honestly, the code would look better and probably be closer to optimized if I created another method. I have much to improve upon and I'm rather excited to do it. I think I need to be a better risk taker. */
